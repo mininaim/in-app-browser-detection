@@ -11,7 +11,7 @@ This project demonstrates how to detect various in-app browsers using JavaScript
 
 ## Demo
 
-You can view the online demo of the project here: [Online Demo](https://tiktok-issue.vercel.app)
+You can view the online demo of the project here: [Online Demo](https://in-app-browser-detection.vercel.app/)
 
 ## Usage
 
